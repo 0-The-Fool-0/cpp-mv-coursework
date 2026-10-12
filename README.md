@@ -14,7 +14,7 @@ The folder names are preserved from the original coursework; see each directory 
 
 Open the relevant `.sln` file in Visual Studio and build the selected assignment independently. Some assignments use local text files as input data. There is no single root executable or unified build command.
 
-The standalone `Project1/Project1/Project1.vcxproj` built successfully with MSVC (v145 toolset override) in the Windows audit copy. Other labs were not built, and expected working directories and input-file paths still need per-assignment verification.
+All six available Visual Studio projects built successfully with MSVC (v145 toolset override) in the Windows audit copy. Expected working directories and input-file paths still need runtime verification for each assignment.
 
 ## Scope and limitations
 
