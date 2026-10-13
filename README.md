@@ -1,3 +1,5 @@
+[Русская версия](README.ru.md)
+
 # MV C++ Coursework
 
 A collection of independent C++ lab exercises. Each lab stays in its original directory with its own Visual Studio solution and project files where provided.
